@@ -1,0 +1,3 @@
+[octoprint.plugin]
+powerfailure = octoprint_powerfailure
+

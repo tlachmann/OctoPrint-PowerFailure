@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+Power_Failure_Recovery.egg-info/PKG-INFO
+Power_Failure_Recovery.egg-info/SOURCES.txt
+Power_Failure_Recovery.egg-info/dependency_links.txt
+Power_Failure_Recovery.egg-info/entry_points.txt
+Power_Failure_Recovery.egg-info/not-zip-safe
+Power_Failure_Recovery.egg-info/requires.txt
+Power_Failure_Recovery.egg-info/top_level.txt
+octoprint_powerfailure/__init__.py
+octoprint_powerfailure/misc.py
